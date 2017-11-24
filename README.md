@@ -1,2 +1,8 @@
 # BigFile-Uploader (2017)
-Simple yet functional file uploader for big files (any size)
+Prototype for a big file uploader (files of any size)
+
+<b>Technologies</b>
+- JEE
+- JSP
+- JavaScript
+- AJAX
